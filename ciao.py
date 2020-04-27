@@ -1,5 +1,5 @@
-print ("Ciao")
-print ("Mare")
+print ("Cioa")
+print ("Maer")
 print ("Ehi")
 print ("Bella")
 
